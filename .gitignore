@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+dist
+server/dist
+.env*
+!.env.example
+tsconfig.tsbuildinfo
+test-results
+playwright-report
+.agents
+.codex
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
